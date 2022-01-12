@@ -53,3 +53,9 @@ This project is a feeds posting application. This project has a couple intention
 - A post should be generated directly below the `What is on your mind?` area.
 
 - A user is able to hit the `Like` button on a post that was created and it will like/unlike the post. Filling in the color of heart with a blue color when liked and white when not liked.
+
+
+### When You Are Finished!
+
+- Email a zipped folder of your work with the convention <Lastname_Firstname-efuse-work-sample-QA.zip> to your recruiter. Meaning, for Caleb Quinn:
+Quinn_Caleb-efuse-work-sample-QA.zip
