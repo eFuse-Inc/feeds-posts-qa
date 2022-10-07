@@ -14,7 +14,7 @@ This project is a feeds posting application. This project has a couple intention
 
 ## Example Design
 
-![Alt text](src/photos/image.png?raw=true "Title")
+![Alt text](src/photos/image_two.png?raw=true "Title")
 
 ## Project Tasks
 
